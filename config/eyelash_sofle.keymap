@@ -1,4 +1,3 @@
-#include <dt-bindings/zmk/outputs.h>
 #define ZMK_POINTING_DEFAULT_MOVE_VAL 1200  // 600
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 25   // 10
 
@@ -46,7 +45,7 @@
             bindings = <
 &kp EQUAL   &kp N1     &kp N2        &kp N3        &kp N4  &kp N5    &kp UP_ARROW     &kp N6     &kp N7     &kp N8         &kp N9           &kp N0             &kp MINUS
 &kp TAB     &kp Q      &kp W         &kp F         &kp P   &kp B     &kp DOWN_ARROW   &kp J      &kp L      &kp U          &kp Y            &kp RS(SEMICOLON)  &kp BSLH
-&kp CAPS    &kp A      &kp R         &kp S         &kp T   &kp G     &kp LEFT_ARROW   &kp M      &kp N      &kp F          &kp I            &kp O              &kp APOS
+&kp CAPS    &kp A      &kp R         &kp S         &kp T   &kp G     &kp LEFT_ARROW   &kp M      &kp N      &kp E          &kp I            &kp O              &kp APOS
 &kp LSHFT   &kp Z      &kp X         &kp C         &kp D   &kp V     &kp RIGHT_ARROW  &kp K      &kp H      &kp COMMA      &kp DOT          &kp FSLH           &kp ENTER
 &kp C_MUTE  &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &mo 1   &mo 2     &kp ENTER        &kp ENTER  &kp SPACE  &kp BACKSPACE  &kp RIGHT_SHIFT  &tog 2
             >;
