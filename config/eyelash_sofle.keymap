@@ -46,7 +46,7 @@
 &kp EQUAL   &kp N1     &kp N2        &kp N3        &kp N4          &kp N5    &kp UP_ARROW     &kp N6     &kp N7     &kp N8         &kp N9           &kp N0             &kp MINUS
 &kp TAB     &kp Q      &kp W         &kp F         &kp P           &kp B     &kp DOWN_ARROW   &kp J      &kp L      &kp U          &kp Y            &kp RS(SEMICOLON)  &kp BSLH
 &kp CAPS    &kp A      &kp R         &kp S         &kp T           &kp G     &kp LEFT_ARROW   &kp M      &kp N      &kp E          &kp I            &kp O              &kp APOS
-&tog 3      &kp Z      &kp X         &kp C         &kp D           &kp V     &kp RIGHT_ARROW  &kp K      &kp H      &kp COMMA      &kp DOT          &kp FSLH           &kp ENTER
+&to 3       &kp Z      &kp X         &kp C         &kp D           &kp V     &kp RIGHT_ARROW  &kp K      &kp H      &kp COMMA      &kp DOT          &kp FSLH           &kp ENTER
 &kp C_MUTE  &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &kp LEFT_SHIFT  &mo 1     &kp ENTER        &kp ENTER  &kp SPACE  &kp BACKSPACE  &kp RIGHT_SHIFT  &tog 2
             >;
 
@@ -84,7 +84,7 @@
 &kp ESC  &kp N1     &kp N2    &kp N3    &kp N4     &kp N5       &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &kp TAB  &kp Q      &kp W     &kp E     &kp R      &kp T        &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans   &kp A      &kp S     &kp D     &kp F      &kp G        &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&tog 0   &kp Z      &kp X     &kp C     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&to 0    &kp Z      &kp X     &kp C     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans   &kp LCTRL  &kp LALT  &kp LGUI  &kp LSHFT  &kp LCTRL    &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
