@@ -38,6 +38,15 @@
     behaviors {
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        q {
+            bindings = <&kp LS(Q)>;
+            key-positions = <14>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
