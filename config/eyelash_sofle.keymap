@@ -38,14 +38,7 @@
     behaviors {
     };
 
-    combos {
-        compatible = "zmk,combos";
-
-        q {
-            bindings = <&kp LS(Q)>;
-            key-positions = <14>;
-        };
-    };
+    combos { compatible = "zmk,combos"; };
 
     keymap {
         compatible = "zmk,keymap";
