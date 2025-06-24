@@ -286,8 +286,8 @@ rect.held, rect.combo.held {
   visibility: hidden;
 }
 </style>
-<g transform="translate(40, 0)" class="layer-LAYER0">
-<text x="0" y="28" class="label" id="LAYER0">LAYER0:</text>
+<g transform="translate(40, 0)" class="layer-1: Default">
+<text x="0" y="28" class="label" id="Default">1: Default:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 56)" class="key keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
@@ -574,8 +574,10 @@ rect.held, rect.combo.held {
 <g transform="translate(140, 259)" class="key keypos-53">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#layer2">
-<text x="0" y="-4" class="key tap layer-activator">layer2</text>
+<a href="#Functions">
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 67%">2:</tspan><tspan x="0" dy="1.2em" style="font-size: 67%">Functions</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(196, 252)" class="key keypos-54">
@@ -596,8 +598,10 @@ rect.held, rect.combo.held {
 <g transform="translate(389, 294) rotate(30.0)" class="key keypos-57">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#layer2">
-<text x="0" y="-4" class="key tap layer-activator">layer2</text>
+<a href="#Functions">
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 67%">2:</tspan><tspan x="0" dy="1.2em" style="font-size: 67%">Functions</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(462, 91)" class="key enter keypos-58">
@@ -633,8 +637,8 @@ rect.held, rect.combo.held {
 </g>
 </g>
 </g>
-<g transform="translate(40, 388)" class="layer-layer2">
-<text x="0" y="28" class="label" id="layer2">layer2:</text>
+<g transform="translate(40, 388)" class="layer-2: Functions">
+<text x="0" y="28" class="label" id="Functions">2: Functions:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 56)" class="key keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
@@ -940,8 +944,10 @@ rect.held, rect.combo.held {
 <g transform="translate(140, 259)" class="key keypos-53">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#LAYER0">
-<text x="0" y="-4" class="key tap layer-activator">LAYER0</text>
+<a href="#Default">
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 86%">1:</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">Default</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(196, 252)" class="key keypos-54">
@@ -963,7 +969,9 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
 <a href="#Bluetooth">
-<text x="0" y="-4" class="key tap layer-activator"><tspan style="font-size: 67%">Bluetooth</tspan></text>
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 67%">3:</tspan><tspan x="0" dy="1.2em" style="font-size: 67%">Bluetooth</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(462, 91)" class="key keypos-58">
@@ -998,8 +1006,8 @@ rect.held, rect.combo.held {
 </g>
 </g>
 </g>
-<g transform="translate(40, 776)" class="layer-Bluetooth">
-<text x="0" y="28" class="label" id="Bluetooth">Bluetooth:</text>
+<g transform="translate(40, 776)" class="layer-3: Bluetooth">
+<text x="0" y="28" class="label" id="Bluetooth">3: Bluetooth:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 56)" class="key keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
@@ -1284,8 +1292,10 @@ rect.held, rect.combo.held {
 <g transform="translate(140, 259)" class="key keypos-53">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#LAYER0">
-<text x="0" y="-4" class="key tap layer-activator">LAYER0</text>
+<a href="#Default">
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 86%">1:</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">Default</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(196, 252)" class="key trans keypos-54">
@@ -1307,7 +1317,9 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
 <a href="#Gaming">
-<text x="0" y="-4" class="key tap layer-activator">Gaming</text>
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em">4:</tspan><tspan x="0" dy="1.2em">Gaming</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(462, 91)" class="key keypos-58">
@@ -1342,8 +1354,8 @@ rect.held, rect.combo.held {
 </g>
 </g>
 </g>
-<g transform="translate(40, 1165)" class="layer-Gaming">
-<text x="0" y="28" class="label" id="Gaming">Gaming:</text>
+<g transform="translate(40, 1165)" class="layer-4: Gaming">
+<text x="0" y="28" class="label" id="Gaming">4: Gaming:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 56)" class="key keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
@@ -1629,8 +1641,10 @@ rect.held, rect.combo.held {
 <g transform="translate(140, 259)" class="key keypos-53">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#LAYER0">
-<text x="0" y="-4" class="key tap layer-activator">LAYER0</text>
+<a href="#Default">
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 86%">1:</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">Default</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(196, 252)" class="key keypos-54">
@@ -1651,8 +1665,10 @@ rect.held, rect.combo.held {
 <g transform="translate(389, 294) rotate(30.0)" class="key keypos-57">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#LAYER0">
-<text x="0" y="-4" class="key tap layer-activator">LAYER0</text>
+<a href="#Default">
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 86%">1:</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">Default</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(462, 91)" class="key enter keypos-58">
