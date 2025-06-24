@@ -92,7 +92,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            label = "3 QWERTY";
+            label = "3 Game";
         };
     };
 };
