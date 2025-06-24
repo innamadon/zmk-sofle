@@ -53,7 +53,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            display-name = "0: Default";
+            display-name = "0 Default";
         };
 
         Functions {
@@ -65,7 +65,7 @@
 &kp C_MUTE  &to 0            &kp LGUI                          &kp LALT         &kp LEFT_SHIFT   &to 2              &mkp LCLK        &trans     &kp SPACE     &kp BSPC  &trans  &trans
             >;
 
-            display-name = "1: Functions";
+            display-name = "1 Functions";
             sensor-bindings = <&scroll_encoder>;
         };
 
@@ -79,7 +79,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            label = "2: Bluetooth";
+            label = "2 Bluetooth";
         };
 
         Gaming {
@@ -92,7 +92,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            label = "3: Gaming";
+            label = "3 Gaming";
         };
     };
 };
