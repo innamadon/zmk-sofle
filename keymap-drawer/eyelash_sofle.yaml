@@ -54,18 +54,18 @@ layers:
   - {t: /, s: '?'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:volume-off$$
-  - {t: 1 Functions, h: toggle}
+  - {t: 1 Funct, h: toggle}
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-shift$$
-  - {t: 1 Functions, h: toggle}
+  - {t: 1 Funct, h: toggle}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:apple-keyboard-shift$$
   - {t: '=', s: +}
-  1 Functions:
+  1 Funct:
   - {t: '`', s: '~'}
   - F1
   - F2
@@ -123,14 +123,14 @@ layers:
   - LGUI
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-shift$$
-  - {t: 2 Bluetooth, h: toggle}
+  - {t: 2 Blueth, h: toggle}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  2 Bluetooth:
+  2 Blueth:
   - '~'
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
@@ -188,14 +188,14 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: 3 Gaming, h: toggle}
+  - {t: 3 QWERTY, h: toggle}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  3 Gaming:
+  3 QWERTY:
   - $$mdi:keyboard-esc$$
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
